@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class EnemySpawner : MonoBehaviour
 {
@@ -99,6 +100,7 @@ public class EnemySpawner : MonoBehaviour
         {
             //currentWave = 0;    // THIS IS PROVISIONAL, implement the change to the cutscene
             Debug.Log("Completed all waves!!");
+            SceneManager.LoadScene("Final", LoadSceneMode.Single);
             // put the screen to fade black, then after it fades it loads the next scene
         }
         else
