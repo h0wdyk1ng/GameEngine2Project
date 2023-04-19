@@ -141,7 +141,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 9153
+  controlID: 11213
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -166,7 +166,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 9154
+  controlID: 11214
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -226,7 +226,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 7c2d0100
       m_LastClickedID: 77180
-      m_ExpandedIDs: c211fdffbc15fdff8421fdff2c3dfdff781cfeffac75feff0076feff9276feff3886fefff4f1ffff36fbffffe6090100
+      m_ExpandedIDs: 9e8ffcff609efcff88a4fcff42adfcffc211fdff8421fdff2c3dfdff781cfeffac75feff0076feff9276feff3886fefff4f1ffff36fbffffe6090100
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -682,22 +682,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Scenes/SampleScene/Stuff
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Scenes/SampleScene/Stuff
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\howdy\Desktop\SCHOOL\gameEngine\GameEngine2Project\Redacted
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 70.20001}
-    m_SelectedIDs: 2a6d0000
-    m_LastClickedID: 27946
-    m_ExpandedIDs: 00000000266d0000286d00002a6d000000ca9a3b
+    scrollPos: {x: 0, y: 60}
+    m_SelectedIDs: 166c0100
+    m_LastClickedID: 93206
+    m_ExpandedIDs: 00000000266d0000286d00002a6d0000026e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -752,7 +752,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 7c2d0100
     m_LastClickedInstanceID: 77180
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c623000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -853,8 +853,8 @@ MonoBehaviour:
     y: 0
     width: 362.40002
     height: 513.6
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -895,7 +895,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 220.80002
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
