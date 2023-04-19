@@ -7,6 +7,6 @@ public class SceneSwitcher : MonoBehaviour
 {
     void OnEnable()
     {
-        SceneManager.LoadScene("Level1Flood", LoadSceneMode.Single);
+        SceneManager.LoadScene("Level1", LoadSceneMode.Single);
     }
 }
